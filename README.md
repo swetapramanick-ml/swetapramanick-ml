@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Sweta Pramanick</h1>
-<h3>🚀 Full Stack Software Development Engineer (SDE) + AI Enthusiast</h3>
+<h3>Full Stack Software Development Engineer (SDE) + AI Enthusiast</h3>
 
 
 ## 💫 About Me:
-🚀 Full Stack Engineer building **scalable web applications and AI-powered systems**  <br><br>💻 Strong in **React, Node.js, Python, REST APIs, and Machine Learning**  <br>🔍 Passionate about solving **real-world problems using data-driven approaches**  <br><br>🔭 Currently working on **AI-powered applications & full-stack systems**  <br>🤝 I’m looking to collaborate on **AI/ML & Full Stack projects**  <br>🧠 I’m currently learning **Advanced ML, System Design & Cloud (AWS/Render)**  <br>💬 **Full Stack Development, APIs, and ML models**  <br>⚡ **Fun fact:** I turn complex problems into **simple, scalable solutions** 🚀  
+🚀 Full Stack Engineer building **scalable web applications and AI-powered systems**  <br>💻 Strong in **React, Node.js, Python, REST APIs, and Machine Learning**  <br>🔍 Passionate about solving **real-world problems using data-driven approaches**  <br>🔭 Currently working on **AI-powered applications & full-stack systems**  <br>🤝 I’m looking to collaborate on **AI/ML & Full Stack projects**  <br>🧠 I’m currently learning **Advanced ML, System Design & Cloud (AWS/Render)**  <br>💬 **Full Stack Development, APIs, and ML models**  <br>⚡ **Fun fact:** I turn complex problems into **simple, scalable solutions** 🚀  
 
 
 ## 🌐 Socials:
@@ -25,14 +25,14 @@
 - 99.8% ML model accuracy (Scikit-learn)
 - Full-stack deployment with real-time predictions
 - Improved decision-making using data-driven insights
-Tech Stack: Python, Scikit-learn, Flask/Node.js, HTML, CSS, JavaScript
+- Tech Stack: Python, Scikit-learn, Flask/Node.js, HTML, CSS, JavaScript
 🌐 **Live:** [https://loan-approval-3jh5.onrender.com](url)
 
 ### 🔹 Portfolio Website
 - Modern responsive UI (glassmorphism)
 - Optimized performance & cross-browser compatibility
 - Deployed on Netlify with CI/CD-based updates
-Tech Stack: HTML, CSS, JavaScript
+- Tech Stack: HTML, CSS, JavaScript
 🌐 **Live:** [https://pramanicksweta.netlify.app/](url)
 
 ---
