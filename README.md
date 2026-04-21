@@ -33,8 +33,8 @@
 - Optimized performance & cross-browser compatibility
 - Deployed on Netlify with CI/CD-based updates
 - Tech Stack: HTML, CSS, JavaScript
-🌐 **Live:** [https://pramanicksweta.netlify.app/](url)
-
+🌐 **Live:** [https://pramanicksweta.netlify.app/
+](url)
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swetapramanick-ml&label=Profile%20Views&color=00C6FF&style=flat" />
