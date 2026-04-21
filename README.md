@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Sweta Pramanick</h1>
 # 💫 About Me:
 🚀 Full Stack Software Development Engineer (SDE) + AI Enthusiast  <br><br>💻 I build scalable, high-performance web applications and intelligent AI-driven solutions.  <br>🔍 Passionate about solving real-world problems using Machine Learning and modern technologies.  <br><br>🔭 I’m currently working on AI-powered applications & full-stack projects  <br>🤝 I’m looking to collaborate on AI/ML & Full Stack projects  <br>🧠 I’m currently learning Advanced ML, System Design & Cloud (AWS/Render)  <br>💬 Ask me about React, Node.js, Python, Machine Learning  <br>⚡ Fun fact: I turn complex problems into simple scalable solutions 🚀  
 
@@ -15,13 +16,25 @@
 ![](https://streak-stats.demolab.com/?user=swetapramanick-ml&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=swetapramanick-ml&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=swetapramanick-ml&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Featured Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=swetapramanick-ml&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔹 Loan Approval Prediction System
+- 99.8% ML model accuracy (Scikit-learn)
+- Full-stack deployment with real-time predictions
+- Improved decision-making using data-driven insights
+Tech Stack: Python, Scikit-learn, Flask/Node.js, HTML, CSS, JavaScript
+🌐 **Live:** [https://loan-approval-3jh5.onrender.com](url)
+
+### 🔹 Portfolio Website
+- Modern responsive UI (glassmorphism)
+- Optimized performance & cross-browser compatibility
+- Deployed on Netlify with CI/CD-based updates
+Tech Stack: HTML, CSS, JavaScript
+🌐 **Live:** [https://pramanicksweta.netlify.app/](url)
 
 ---
-[![](https://komarev.com/ghpvc/?username=swetapramanick-ml&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swetapramanick-ml&label=Profile%20Views&color=00C6FF&style=flat" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
