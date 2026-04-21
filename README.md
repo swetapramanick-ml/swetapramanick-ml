@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sweta Pramanick</h1>
-# 💫 About Me:
-🚀 Full Stack Software Development Engineer (SDE) + AI Enthusiast  <br><br>💻 I build scalable, high-performance web applications and intelligent AI-driven solutions.  <br>🔍 Passionate about solving real-world problems using Machine Learning and modern technologies.  <br><br>🔭 I’m currently working on AI-powered applications & full-stack projects  <br>🤝 I’m looking to collaborate on AI/ML & Full Stack projects  <br>🧠 I’m currently learning Advanced ML, System Design & Cloud (AWS/Render)  <br>💬 Ask me about React, Node.js, Python, Machine Learning  <br>⚡ Fun fact: I turn complex problems into simple scalable solutions 🚀  
+<h3 align="center">🚀 Full Stack Software Development Engineer (SDE) + AI Enthusiast</h3>
+---
+
+## 💫 About Me:
+🚀 Full Stack Engineer building **scalable web applications and AI-powered systems**  <br><br>💻 Strong in **React, Node.js, Python, REST APIs, and Machine Learning**  <br>🔍 Passionate about solving **real-world problems using data-driven approaches**  <br><br>🔭 Currently working on **AI-powered applications & full-stack systems**  <br>🤝 I’m looking to collaborate on **AI/ML & Full Stack projects**  <br>🧠 I’m currently learning **Advanced ML, System Design & Cloud (AWS/Render)**  <br>💬 **Full Stack Development, APIs, and ML models**  <br>⚡ **Fun fact:** I turn complex problems into **simple, scalable solutions** 🚀  
 
 
 ## 🌐 Socials:
